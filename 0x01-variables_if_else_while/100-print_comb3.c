@@ -50,7 +50,7 @@ int main(void)
 																																										}
 
 			}
-			j++
+			j++;
 		}
 
 		j = '0';
