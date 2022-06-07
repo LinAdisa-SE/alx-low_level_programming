@@ -1,5 +1,3 @@
-#include <putchar.c>
-
 #include "main.h"
 
 
