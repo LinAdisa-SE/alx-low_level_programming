@@ -1,36 +1,29 @@
-/*
- * File: putchar.c
- *
- */
+#include <main.h>
 
-#include "main.h"
+#include "putchar.c"
+
+
 
 /**
- * main - Prints"_putchar" followed by a new line.
- * Return: Always 0.
+ * main - Check description
+ * Description: It prints the word _putchar, followed by a new line.
+ * Return: 0.
  */
 
 int main(void)
 
 {
 
- 	_putchar('_');
+	char word[8] = "_putchar";
 
-	_putchar('p');
+	int i;
 
-	_putchar('u');
 
-	_putchar('t');
+	for (i = 0; i < 8; i++)
 
-	_putchar('h');
-
-	_putchar('a');
-
-	_putchar('r');
+			_putchar(word[i]);
 
 	_putchar('\n');
-
-
 
 
 	return (0);
