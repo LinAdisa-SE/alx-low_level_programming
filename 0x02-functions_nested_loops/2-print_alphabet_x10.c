@@ -27,9 +27,6 @@ void print_alphabet_x10(void)
 
 
 		for (i = 'a'; i <= 'z'; i++)
-			prints alphabet();
-
-
 			_putchar(i);
 
 
