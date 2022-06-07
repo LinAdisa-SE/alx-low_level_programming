@@ -1,9 +1,9 @@
 /*
- * File: main.h
+ * File: putchar.c
  *
  */
 
-#include "putchar.c"
+#include "main.h"
 
 /**
  * main - Prints"_putchar" followed by a new line.
