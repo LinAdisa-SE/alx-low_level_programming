@@ -1,1 +1,1 @@
-my C - More pointers, arrays and strings readme
+C - More singly linked lists
